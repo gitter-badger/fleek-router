@@ -1,5 +1,7 @@
 # Fleek Router
 
+[![Join the chat at https://gitter.im/fleekjs/fleek-router](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/fleekjs/fleek-router?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Middleware router that merges swagger docs with matching controllers.
 
 Quick reference:
